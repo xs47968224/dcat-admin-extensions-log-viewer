@@ -102,11 +102,11 @@
 
                           <thead>
                               <tr>
-                                  <th>{{ trans('admin.level') }}</th>
-                                  <th>{{ trans('admin.env') }}</th>
-                                  <th>{{ trans('admin.time') }}</th>
+                                  <th width="80">{{ trans('admin.level') }}</th>
+                                  <th width="60">{{ trans('admin.env') }}</th>
+                                  <th width="150">{{ trans('admin.time') }}</th>
                                   <th>{{ trans('admin.message') }}</th>
-                                  <th></th>
+                                  <th width="130"></th>
                               </tr>
                           </thead>
 
