@@ -1,0 +1,26 @@
+{
+    "name": "dcat-admin-extensions/log-viewer",
+    "description": "错误日志",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/dcat-admin-extensions/log-viewer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "858785716@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Extension\\LogViewer\\": "src/"
+        },
+         "files": [
+            "src/bootstrap.php"
+        ]
+    }
+}
