@@ -8,7 +8,9 @@ Dcat Admin扩展 - 错误日志预览
 
 搬运的`https://github.com/laravel-admin-extensions/log-viewer`
 
-只修改了少量代码用于支持在Dcat Admin中运行
+之前用laravel-amdin, 安装的log-viewer，一直觉得挺方便监控错误日志的，但是用了Dcat后暂时就没有支持这个插件
+
+现在只修改了少量代码用于支持在Dcat Admin中运行
 
 ## 安装
 
