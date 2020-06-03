@@ -3,7 +3,7 @@
     "description": "错误日志",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
-    "homepage": "https://github.com/dcat-admin-extensions/log-viewer",
+    "homepage": "https://github.com/xs47968224/dcat-admin-extensions-log-viewer",
     "license": "MIT",
     "authors": [
         {

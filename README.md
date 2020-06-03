@@ -30,5 +30,5 @@ return [
 
 ## 使用
 
-以上步骤都完成之后刷新页面，就可以看到`LogView`的菜单了。
+以上步骤都完成之后`http://localhost:8000/admin/logs`，就可以访问了。
 
