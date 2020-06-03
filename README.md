@@ -16,7 +16,7 @@ Dcat Admin扩展 - 错误日志预览
 
 请先确保安装了[Dcat Admin](https://github.com/jqhph/dcat-admin)，执行
 ```php
-composer require dcat-admin-extension/log-viewer
+composer require dcat-admin-extensions/log-viewer
 ```
 
 最后用浏览器打开`http://localhost:8000/admin/helpers/extensions`找到`log-viewer`这一行，点击`启用`按钮，即可使用。
