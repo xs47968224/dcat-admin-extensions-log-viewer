@@ -1,7 +1,7 @@
 
 
 
-Dcat Admin扩展 - 干货集中营
+Dcat Admin扩展 - 错误日志预览
 ======
 
 这是一个`Dcat Admin`的扩展包
